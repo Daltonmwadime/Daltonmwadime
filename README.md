@@ -27,7 +27,6 @@
 
 ### 💻 Languages
 - JavaScript (Node.js)
-- Python
 - HTML, CSS
 
 ### ⚙️ Tools & Frameworks
